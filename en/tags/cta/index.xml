@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CTA on Coriva</title>
+    <link>https://coriva.eu.org/en/tags/cta/</link>
+    <description>Recent content in CTA on Coriva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Apr 2026 08:08:25 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/en/tags/cta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CTA Strategy Guide: Trend Following, Futures Arbitrage, and Python Implementation</title>
+      <link>https://coriva.eu.org/en/cta-strategy-guide/</link>
+      <pubDate>Thu, 16 Apr 2026 08:08:25 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/cta-strategy-guide/</guid>
+      <description>CTA strategy taxonomy, trend following with dual moving average crossover, futures calendar and intercommodity spread arbitrage, with Python simulation code and backtest results.</description>
+    </item>
+  </channel>
+</rss>

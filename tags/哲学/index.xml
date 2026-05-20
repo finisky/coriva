@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>哲学 on Coriva</title>
+    <link>https://coriva.eu.org/tags/%E5%93%B2%E5%AD%A6/</link>
+    <description>Recent content in 哲学 on Coriva</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 11 Dec 2023 15:25:02 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/tags/%E5%93%B2%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《历史的教训》精要</title>
+      <link>https://coriva.eu.org/the-lessons-of-history-summary/</link>
+      <pubDate>Mon, 11 Dec 2023 15:25:02 +0800</pubDate>
+      <guid>https://coriva.eu.org/the-lessons-of-history-summary/</guid>
+      <description>威尔·杜兰特《历史的教训》精要：从历史规律中提炼人类文明的核心洞察。</description>
+    </item>
+  </channel>
+</rss>

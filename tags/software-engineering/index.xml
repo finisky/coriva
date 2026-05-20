@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software Engineering on Coriva</title>
+    <link>https://coriva.eu.org/tags/software-engineering/</link>
+    <description>Recent content in Software Engineering on Coriva</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 11 Dec 2023 19:56:18 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“屎山代码”：开发中的陷阱与教训</title>
+      <link>https://coriva.eu.org/how-to-prevent-spaghetti-code/</link>
+      <pubDate>Mon, 11 Dec 2023 19:56:18 +0800</pubDate>
+      <guid>https://coriva.eu.org/how-to-prevent-spaghetti-code/</guid>
+      <description>如何避免屎山代码：开发中常见的代码质量陷阱与改进方法。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WordPress on Coriva</title>
+    <link>https://coriva.eu.org/en/categories/wordpress/</link>
+    <description>Recent content in WordPress on Coriva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Dec 2023 18:54:22 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/en/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WordPress Permalinks 404 Issue Solution</title>
+      <link>https://coriva.eu.org/en/wordpress-permalinks-404-issue-solution/</link>
+      <pubDate>Tue, 05 Dec 2023 18:54:22 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/wordpress-permalinks-404-issue-solution/</guid>
+      <description>How to fix WordPress permalinks returning 404 errors after changing URL structure.</description>
+    </item>
+  </channel>
+</rss>

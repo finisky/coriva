@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Risk Management on Coriva</title>
+    <link>https://coriva.eu.org/en/tags/risk-management/</link>
+    <description>Recent content in Risk Management on Coriva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Apr 2026 18:07:35 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/en/tags/risk-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kelly Criterion and Position Sizing: From Formula to Quant Practice</title>
+      <link>https://coriva.eu.org/en/kelly-criterion-position-sizing/</link>
+      <pubDate>Wed, 15 Apr 2026 18:07:35 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/kelly-criterion-position-sizing/</guid>
+      <description>Kelly Criterion math, continuous-case derivation, connection to Sharpe ratio, fractional Kelly in practice, multi-asset extension, and Python position sizing simulations.</description>
+    </item>
+  </channel>
+</rss>

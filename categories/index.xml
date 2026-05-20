@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Coriva</title>
+    <link>https://coriva.eu.org/categories/</link>
+    <description>Recent content in Categories on Coriva</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 20 May 2026 12:46:42 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quant</title>
+      <link>https://coriva.eu.org/categories/quant/</link>
+      <pubDate>Wed, 20 May 2026 12:46:42 +0800</pubDate>
+      <guid>https://coriva.eu.org/categories/quant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NLP</title>
+      <link>https://coriva.eu.org/categories/nlp/</link>
+      <pubDate>Fri, 03 Jan 2025 11:34:14 +0800</pubDate>
+      <guid>https://coriva.eu.org/categories/nlp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Misc</title>
+      <link>https://coriva.eu.org/categories/misc/</link>
+      <pubDate>Sat, 14 Dec 2024 10:11:01 +0800</pubDate>
+      <guid>https://coriva.eu.org/categories/misc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding</title>
+      <link>https://coriva.eu.org/categories/coding/</link>
+      <pubDate>Mon, 11 Dec 2023 19:56:18 +0800</pubDate>
+      <guid>https://coriva.eu.org/categories/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Insights</title>
+      <link>https://coriva.eu.org/categories/insights/</link>
+      <pubDate>Mon, 11 Dec 2023 15:25:02 +0800</pubDate>
+      <guid>https://coriva.eu.org/categories/insights/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>历史</title>
+      <link>https://coriva.eu.org/categories/%E5%8E%86%E5%8F%B2/</link>
+      <pubDate>Mon, 11 Dec 2023 15:25:02 +0800</pubDate>
+      <guid>https://coriva.eu.org/categories/%E5%8E%86%E5%8F%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WordPress</title>
+      <link>https://coriva.eu.org/categories/wordpress/</link>
+      <pubDate>Tue, 05 Dec 2023 18:54:22 +0800</pubDate>
+      <guid>https://coriva.eu.org/categories/wordpress/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

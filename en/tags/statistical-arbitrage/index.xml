@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Statistical Arbitrage on Coriva</title>
+    <link>https://coriva.eu.org/en/tags/statistical-arbitrage/</link>
+    <description>Recent content in Statistical Arbitrage on Coriva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Apr 2026 18:10:05 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/en/tags/statistical-arbitrage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pairs Trading Guide: Cointegration, Spread Construction, and Python Implementation</title>
+      <link>https://coriva.eu.org/en/pairs-trading-guide/</link>
+      <pubDate>Wed, 15 Apr 2026 18:10:05 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/pairs-trading-guide/</guid>
+      <description>Pairs trading from scratch: why cointegration beats correlation, Engle-Granger testing, spread construction, Z-score signal generation, and Python backtesting code.</description>
+    </item>
+  </channel>
+</rss>

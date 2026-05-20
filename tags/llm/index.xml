@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLM on Coriva</title>
+    <link>https://coriva.eu.org/tags/llm/</link>
+    <description>Recent content in LLM on Coriva</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 20 May 2026 12:46:42 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QuantaAlpha：把因子挖掘当成轨迹来进化</title>
+      <link>https://coriva.eu.org/quantaalpha-paper-review/</link>
+      <pubDate>Wed, 20 May 2026 12:46:42 +0800</pubDate>
+      <guid>https://coriva.eu.org/quantaalpha-paper-review/</guid>
+      <description>QuantaAlpha 论文解读：把 LLM 因子挖掘建模为 trajectory，用 mutation/crossover 自进化。CSI 300 IC 0.0472，零样本迁移 S&amp;amp;P 500 超额 19.1%。</description>
+    </item>
+    <item>
+      <title>AlphaAgent：用正则化探索对抗因子衰减</title>
+      <link>https://coriva.eu.org/alphaagent-paper-review/</link>
+      <pubDate>Tue, 21 Apr 2026 13:47:28 +0800</pubDate>
+      <guid>https://coriva.eu.org/alphaagent-paper-review/</guid>
+      <description>AlphaAgent 论文解读：多 Agent 框架结合 AST 去重、假设对齐、复杂度控制三重正则化，在 CSI 500 和 S&amp;amp;P 500 上挖掘抗衰减的 Alpha 因子。</description>
+    </item>
+    <item>
+      <title>AlphaGPT：用大模型挖掘量化因子</title>
+      <link>https://coriva.eu.org/alphagpt-paper-review/</link>
+      <pubDate>Fri, 10 Apr 2026 00:18:27 +0800</pubDate>
+      <guid>https://coriva.eu.org/alphagpt-paper-review/</guid>
+      <description>AlphaGPT 论文解读：大模型如何参与量化因子挖掘，对比遗传规划方法的优劣，以及人机协作的 Alpha 研究新范式。</description>
+    </item>
+    <item>
+      <title>大模型创业前必须想清楚的问题</title>
+      <link>https://coriva.eu.org/llm-based-startup-issues/</link>
+      <pubDate>Thu, 21 Dec 2023 15:43:31 +0800</pubDate>
+      <guid>https://coriva.eu.org/llm-based-startup-issues/</guid>
+      <description>大模型创业前需要想清楚的关键问题：技术壁垒、商业模式与竞争格局。</description>
+    </item>
+    <item>
+      <title>Phi-2: 小型语言模型的惊人威力</title>
+      <link>https://coriva.eu.org/phi-2-summary/</link>
+      <pubDate>Thu, 14 Dec 2023 17:34:37 +0800</pubDate>
+      <guid>https://coriva.eu.org/phi-2-summary/</guid>
+      <description>微软Phi-2小型语言模型的技术解析：27亿参数如何媲美更大模型的性能。</description>
+    </item>
+    <item>
+      <title>Textbooks Are All You Need 精要</title>
+      <link>https://coriva.eu.org/textbooks-are-all-you-need-summary/</link>
+      <pubDate>Wed, 13 Dec 2023 00:33:39 +0800</pubDate>
+      <guid>https://coriva.eu.org/textbooks-are-all-you-need-summary/</guid>
+      <description>微软Phi-1论文精要：高质量教科书数据如何让小模型实现大模型的能力。</description>
+    </item>
+    <item>
+      <title>ChatGPT写的北大口腔挂号程序</title>
+      <link>https://coriva.eu.org/bjmu-appointment-code/</link>
+      <pubDate>Wed, 06 Dec 2023 23:59:26 +0800</pubDate>
+      <guid>https://coriva.eu.org/bjmu-appointment-code/</guid>
+      <description>用ChatGPT编写的北大口腔医院自动挂号程序的实现过程。</description>
+    </item>
+    <item>
+      <title>检索增强生成（RAG）简介</title>
+      <link>https://coriva.eu.org/intro-to-rag/</link>
+      <pubDate>Wed, 06 Dec 2023 23:50:54 +0800</pubDate>
+      <guid>https://coriva.eu.org/intro-to-rag/</guid>
+      <description>检索增强生成（RAG）技术的原理介绍，结合检索与大语言模型提升回答质量。</description>
+    </item>
+  </channel>
+</rss>

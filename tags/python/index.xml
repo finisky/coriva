@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on Coriva</title>
+    <link>https://coriva.eu.org/tags/python/</link>
+    <description>Recent content in Python on Coriva</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 08 May 2026 14:29:55 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vectorbt 入门教程：向量化思路做 Python 量化回测</title>
+      <link>https://coriva.eu.org/vectorbt-tutorial/</link>
+      <pubDate>Fri, 08 May 2026 14:29:55 +0800</pubDate>
+      <guid>https://coriva.eu.org/vectorbt-tutorial/</guid>
+      <description>vectorbt 入门教程：从安装到双均线策略再到 10000 组参数网格搜索，讲清楚向量化回测的思路、Portfolio 三种入口的差别和常见踩坑。</description>
+    </item>
+    <item>
+      <title>TA-Lib Python 完整教程</title>
+      <link>https://coriva.eu.org/ta-lib-python-tutorial/</link>
+      <pubDate>Sun, 12 Apr 2026 12:25:43 +0800</pubDate>
+      <guid>https://coriva.eu.org/ta-lib-python-tutorial/</guid>
+      <description>TA-Lib Python 教程：安装方法、Function 与 Abstract 两套 API、核心技术指标实战、K线形态识别、Pandas 集成与 pandas-ta 对比，附完整策略代码。</description>
+    </item>
+  </channel>
+</rss>

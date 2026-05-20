@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Options on Coriva</title>
+    <link>https://coriva.eu.org/tags/options/</link>
+    <description>Recent content in Options on Coriva</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 11 May 2026 22:00:44 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/tags/options/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>末日期权（0DTE）完全指南：机制、Greeks 与盈亏真相</title>
+      <link>https://coriva.eu.org/0dte-options-guide/</link>
+      <pubDate>Mon, 11 May 2026 22:00:44 +0800</pubDate>
+      <guid>https://coriva.eu.org/0dte-options-guide/</guid>
+      <description>末日期权（0DTE）机制深度解析：Gamma/Theta 在最后交易日的非线性塌缩、三类参与者的 payoff 剖面、散户买方真实盈亏分布，以及为什么大多数人在末日期权上亏钱。</description>
+    </item>
+    <item>
+      <title>期权Greeks计算器：在线计算 Delta、Gamma、Theta、Vega</title>
+      <link>https://coriva.eu.org/option-greeks-calculator/</link>
+      <pubDate>Tue, 14 Apr 2026 16:55:20 +0800</pubDate>
+      <guid>https://coriva.eu.org/option-greeks-calculator/</guid>
+      <description>在线期权Greeks计算器：输入参数即时计算 Delta、Gamma、Theta、Vega 等一阶和二阶Greeks，附可视化曲线图。基于 Black-Scholes 模型。</description>
+    </item>
+    <item>
+      <title>波动率交易策略入门：做多与做空波动率的六种方法</title>
+      <link>https://coriva.eu.org/volatility-trading-strategies/</link>
+      <pubDate>Mon, 13 Apr 2026 16:19:35 +0800</pubDate>
+      <guid>https://coriva.eu.org/volatility-trading-strategies/</guid>
+      <description>波动率交易策略对比：用IV Rank判断波动率高低，选择Long Straddle、Strangle、Iron Condor等六种策略做多或做空波动率。</description>
+    </item>
+    <item>
+      <title>期权Greeks实战：策略分析、动态对冲与Gamma Scalping</title>
+      <link>https://coriva.eu.org/option-greeks-trading/</link>
+      <pubDate>Sun, 12 Apr 2026 23:42:48 +0800</pubDate>
+      <guid>https://coriva.eu.org/option-greeks-trading/</guid>
+      <description>期权Greeks实战应用：用Greeks拆解常见策略、Python模拟动态Delta对冲、Gamma Scalping逐日P&amp;amp;L演示、做市商风控框架。</description>
+    </item>
+    <item>
+      <title>二阶Greeks详解：Vanna、Charm、Volga 的公式与波动率曲面建模</title>
+      <link>https://coriva.eu.org/option-greeks-second-order/</link>
+      <pubDate>Sun, 12 Apr 2026 23:37:10 +0800</pubDate>
+      <guid>https://coriva.eu.org/option-greeks-second-order/</guid>
+      <description>二阶期权Greeks公式与Python实现：Vanna、Charm、Volga的数学推导、直觉解释，以及它们如何塑造波动率曲面。</description>
+    </item>
+    <item>
+      <title>期权Greeks完全指南：Delta、Gamma、Theta、Vega 的公式与代码实现</title>
+      <link>https://coriva.eu.org/option-greeks-guide/</link>
+      <pubDate>Sun, 12 Apr 2026 23:03:45 +0800</pubDate>
+      <guid>https://coriva.eu.org/option-greeks-guide/</guid>
+      <description>期权Greeks入门指南：Black-Scholes 框架下 Delta、Gamma、Theta、Vega 的公式解读，附 Python 计算代码、做市商对冲经验和可视化图表。</description>
+    </item>
+  </channel>
+</rss>

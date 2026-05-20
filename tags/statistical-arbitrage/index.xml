@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Statistical Arbitrage on Coriva</title>
+    <link>https://coriva.eu.org/tags/statistical-arbitrage/</link>
+    <description>Recent content in Statistical Arbitrage on Coriva</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 15 Apr 2026 18:08:42 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/tags/statistical-arbitrage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>配对交易入门：协整检验、价差构建与 Python 实战</title>
+      <link>https://coriva.eu.org/pairs-trading-guide/</link>
+      <pubDate>Wed, 15 Apr 2026 18:08:42 +0800</pubDate>
+      <guid>https://coriva.eu.org/pairs-trading-guide/</guid>
+      <description>配对交易完整流程：为什么用协整而不是相关性、Engle-Granger 检验、价差构建、Z-score 信号生成、Python 回测代码。</description>
+    </item>
+  </channel>
+</rss>

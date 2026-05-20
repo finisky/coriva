@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Qlib on Coriva</title>
+    <link>https://coriva.eu.org/tags/qlib/</link>
+    <description>Recent content in Qlib on Coriva</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 11 May 2026 13:18:56 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/tags/qlib/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qlib 教程：从安装到第一个量化策略</title>
+      <link>https://coriva.eu.org/qlib-tutorial/</link>
+      <pubDate>Mon, 11 May 2026 13:18:56 +0800</pubDate>
+      <guid>https://coriva.eu.org/qlib-tutorial/</guid>
+      <description>Qlib 教程：从 pip 安装、Alpha158 因子集、LightGBM 训练到回测分析的完整入门指南，含架构图、可运行代码和 Windows 常见报错避坑清单。</description>
+    </item>
+  </channel>
+</rss>

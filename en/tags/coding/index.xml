@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Coding on Coriva</title>
+    <link>https://coriva.eu.org/en/tags/coding/</link>
+    <description>Recent content in Coding on Coriva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Dec 2023 19:56:18 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/en/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spaghetti Code: Traps and Lessons in Development</title>
+      <link>https://coriva.eu.org/en/how-to-prevent-spaghetti-code/</link>
+      <pubDate>Mon, 11 Dec 2023 19:56:18 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/how-to-prevent-spaghetti-code/</guid>
+      <description>How to avoid spaghetti code: common code quality traps in development and practical ways to fix them.</description>
+    </item>
+  </channel>
+</rss>

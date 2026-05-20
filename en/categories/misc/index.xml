@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Misc on Coriva</title>
+    <link>https://coriva.eu.org/en/categories/misc/</link>
+    <description>Recent content in Misc on Coriva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Dec 2024 10:11:01 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/en/categories/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Solve the Drive D Not Found Issue</title>
+      <link>https://coriva.eu.org/en/how-to-solve-the-drive-d-not-found-issue/</link>
+      <pubDate>Sat, 14 Dec 2024 10:11:01 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/how-to-solve-the-drive-d-not-found-issue/</guid>
+      <description>Troubleshooting guide to fix the Drive D Not Found error on Windows, covering hardware, drivers, and partition recovery.</description>
+    </item>
+    <item>
+      <title>How to Solve the Windows 11 RDP Black Screen Issue</title>
+      <link>https://coriva.eu.org/en/how-to-solve-the-windows-11-rdp-black-screen-issue/</link>
+      <pubDate>Sat, 14 Dec 2024 09:46:27 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/how-to-solve-the-windows-11-rdp-black-screen-issue/</guid>
+      <description>Step-by-step solutions to fix the black screen issue when using Remote Desktop Protocol on Windows 11.</description>
+    </item>
+    <item>
+      <title>Open Hyperlinks from Outlook in Chrome</title>
+      <link>https://coriva.eu.org/en/open-hyperlinks-from-outlook-in-chrome/</link>
+      <pubDate>Thu, 07 Dec 2023 14:51:24 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/open-hyperlinks-from-outlook-in-chrome/</guid>
+      <description>How to fix Outlook opening links in Edge instead of Chrome, even when Chrome is the default browser.</description>
+    </item>
+    <item>
+      <title>A ChatGPT-Written Hospital Appointment Bot</title>
+      <link>https://coriva.eu.org/en/bjmu-appointment-code/</link>
+      <pubDate>Wed, 06 Dec 2023 23:59:26 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/bjmu-appointment-code/</guid>
+      <description>Using ChatGPT to write an automated appointment booking program for Peking University School of Stomatology.</description>
+    </item>
+  </channel>
+</rss>

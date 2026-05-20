@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NLP on Coriva</title>
+    <link>https://coriva.eu.org/en/categories/nlp/</link>
+    <description>Recent content in NLP on Coriva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Jan 2025 11:34:14 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/en/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MEDUSA: Detailed Explanation of the Mechanism</title>
+      <link>https://coriva.eu.org/en/medusa-detailed-explanation-of-the-mechanism/</link>
+      <pubDate>Fri, 03 Jan 2025 11:34:14 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/medusa-detailed-explanation-of-the-mechanism/</guid>
+      <description>A deep dive into MEDUSA, an LLM inference acceleration framework using multiple decoding heads for faster text generation.</description>
+    </item>
+    <item>
+      <title>Key Questions Before Starting an LLM Startup</title>
+      <link>https://coriva.eu.org/en/llm-based-startup-issues/</link>
+      <pubDate>Thu, 21 Dec 2023 15:43:31 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/llm-based-startup-issues/</guid>
+      <description>Critical questions to answer before starting an LLM-based business: technical moats, business models, and competitive landscape.</description>
+    </item>
+    <item>
+      <title>Phi-2: The Surprising Power of Small Language Models</title>
+      <link>https://coriva.eu.org/en/phi-2-summary/</link>
+      <pubDate>Thu, 14 Dec 2023 17:34:37 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/phi-2-summary/</guid>
+      <description>A technical breakdown of Microsoft&amp;#39;s Phi-2: how a 2.7B parameter model rivals much larger models through data quality and scaling innovations.</description>
+    </item>
+    <item>
+      <title>Textbooks Are All You Need: Key Takeaways</title>
+      <link>https://coriva.eu.org/en/textbooks-are-all-you-need-summary/</link>
+      <pubDate>Wed, 13 Dec 2023 00:33:39 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/textbooks-are-all-you-need-summary/</guid>
+      <description>Key takeaways from Microsoft&amp;#39;s Phi-1 paper: how high-quality textbook data enables small models to match large model capabilities.</description>
+    </item>
+    <item>
+      <title>Introduction to Retrieval-Augmented Generation (RAG)</title>
+      <link>https://coriva.eu.org/en/intro-to-rag/</link>
+      <pubDate>Wed, 06 Dec 2023 23:50:54 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/intro-to-rag/</guid>
+      <description>An introduction to Retrieval-Augmented Generation (RAG): combining retrieval with large language models to improve answer quality.</description>
+    </item>
+  </channel>
+</rss>

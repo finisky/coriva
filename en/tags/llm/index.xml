@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLM on Coriva</title>
+    <link>https://coriva.eu.org/en/tags/llm/</link>
+    <description>Recent content in LLM on Coriva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 May 2026 12:48:20 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/en/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QuantaAlpha: Evolving Alpha Mining as Trajectories</title>
+      <link>https://coriva.eu.org/en/quantaalpha-paper-review/</link>
+      <pubDate>Wed, 20 May 2026 12:48:20 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/quantaalpha-paper-review/</guid>
+      <description>QuantaAlpha paper review: treat each end-to-end LLM alpha mining run as a trajectory, then evolve via mutation and crossover. IC 0.0472 on CSI 300, with zero-shot transfer to S&amp;amp;P 500 still delivering 19.1% cumulative excess return.</description>
+    </item>
+    <item>
+      <title>AlphaAgent: Regularized Exploration to Fight Alpha Decay</title>
+      <link>https://coriva.eu.org/en/alphaagent-paper-review/</link>
+      <pubDate>Tue, 21 Apr 2026 16:14:16 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alphaagent-paper-review/</guid>
+      <description>AlphaAgent paper review: a multi-agent framework with AST deduplication, hypothesis alignment, and complexity control to mine decay-resistant alpha factors on CSI 500 and S&amp;amp;P 500.</description>
+    </item>
+    <item>
+      <title>AlphaGPT: Mining Quantitative Factors with LLMs</title>
+      <link>https://coriva.eu.org/en/alphagpt-paper-review/</link>
+      <pubDate>Fri, 10 Apr 2026 00:18:47 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alphagpt-paper-review/</guid>
+      <description>A review of the AlphaGPT paper: how LLMs participate in alpha factor mining, comparison with genetic programming, and the human-AI collaborative quant research paradigm.</description>
+    </item>
+    <item>
+      <title>Key Questions Before Starting an LLM Startup</title>
+      <link>https://coriva.eu.org/en/llm-based-startup-issues/</link>
+      <pubDate>Thu, 21 Dec 2023 15:43:31 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/llm-based-startup-issues/</guid>
+      <description>Critical questions to answer before starting an LLM-based business: technical moats, business models, and competitive landscape.</description>
+    </item>
+    <item>
+      <title>Phi-2: The Surprising Power of Small Language Models</title>
+      <link>https://coriva.eu.org/en/phi-2-summary/</link>
+      <pubDate>Thu, 14 Dec 2023 17:34:37 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/phi-2-summary/</guid>
+      <description>A technical breakdown of Microsoft&amp;#39;s Phi-2: how a 2.7B parameter model rivals much larger models through data quality and scaling innovations.</description>
+    </item>
+    <item>
+      <title>Textbooks Are All You Need: Key Takeaways</title>
+      <link>https://coriva.eu.org/en/textbooks-are-all-you-need-summary/</link>
+      <pubDate>Wed, 13 Dec 2023 00:33:39 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/textbooks-are-all-you-need-summary/</guid>
+      <description>Key takeaways from Microsoft&amp;#39;s Phi-1 paper: how high-quality textbook data enables small models to match large model capabilities.</description>
+    </item>
+    <item>
+      <title>A ChatGPT-Written Hospital Appointment Bot</title>
+      <link>https://coriva.eu.org/en/bjmu-appointment-code/</link>
+      <pubDate>Wed, 06 Dec 2023 23:59:26 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/bjmu-appointment-code/</guid>
+      <description>Using ChatGPT to write an automated appointment booking program for Peking University School of Stomatology.</description>
+    </item>
+    <item>
+      <title>Introduction to Retrieval-Augmented Generation (RAG)</title>
+      <link>https://coriva.eu.org/en/intro-to-rag/</link>
+      <pubDate>Wed, 06 Dec 2023 23:50:54 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/intro-to-rag/</guid>
+      <description>An introduction to Retrieval-Augmented Generation (RAG): combining retrieval with large language models to improve answer quality.</description>
+    </item>
+  </channel>
+</rss>

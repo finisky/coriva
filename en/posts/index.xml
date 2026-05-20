@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Coriva</title>
+    <link>https://coriva.eu.org/en/posts/</link>
+    <description>Recent content in Posts on Coriva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 May 2026 12:48:20 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QuantaAlpha: Evolving Alpha Mining as Trajectories</title>
+      <link>https://coriva.eu.org/en/quantaalpha-paper-review/</link>
+      <pubDate>Wed, 20 May 2026 12:48:20 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/quantaalpha-paper-review/</guid>
+      <description>QuantaAlpha paper review: treat each end-to-end LLM alpha mining run as a trajectory, then evolve via mutation and crossover. IC 0.0472 on CSI 300, with zero-shot transfer to S&amp;amp;P 500 still delivering 19.1% cumulative excess return.</description>
+    </item>
+    <item>
+      <title>0DTE Options Explained: Mechanics, Greeks, and Real P&amp;L Distribution</title>
+      <link>https://coriva.eu.org/en/0dte-options-guide/</link>
+      <pubDate>Mon, 11 May 2026 22:02:14 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/0dte-options-guide/</guid>
+      <description>A mechanics-first guide to 0DTE options: how Gamma and Theta collapse on the final trading day, payoff profiles for the three main player types, the real P&amp;amp;L distribution from academic studies, and why most retail buyers lose money.</description>
+    </item>
+    <item>
+      <title>Qlib Tutorial: From Install to Your First Quant Strategy</title>
+      <link>https://coriva.eu.org/en/qlib-tutorial/</link>
+      <pubDate>Mon, 11 May 2026 13:22:15 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/qlib-tutorial/</guid>
+      <description>A practical Qlib tutorial: install pyqlib, understand Alpha158, train a LightGBM model, run a backtest, and read the report. With architecture diagrams, runnable code, and a Windows pitfalls checklist.</description>
+    </item>
+    <item>
+      <title>vectorbt Tutorial: Vectorized Backtesting in Python</title>
+      <link>https://coriva.eu.org/en/vectorbt-tutorial/</link>
+      <pubDate>Fri, 08 May 2026 14:31:46 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/vectorbt-tutorial/</guid>
+      <description>Hands-on vectorbt tutorial: install, build a dual-SMA crossover, sweep 10,000 parameter combinations, and avoid the freq, signal-shift, and memory pitfalls that silently break backtests.</description>
+    </item>
+    <item>
+      <title>AlphaAgent: Regularized Exploration to Fight Alpha Decay</title>
+      <link>https://coriva.eu.org/en/alphaagent-paper-review/</link>
+      <pubDate>Tue, 21 Apr 2026 16:14:16 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alphaagent-paper-review/</guid>
+      <description>AlphaAgent paper review: a multi-agent framework with AST deduplication, hypothesis alignment, and complexity control to mine decay-resistant alpha factors on CSI 500 and S&amp;amp;P 500.</description>
+    </item>
+    <item>
+      <title>Essential Math for Quant Trading: From Log Returns to Linear Regression</title>
+      <link>https://coriva.eu.org/en/quant-math-basics/</link>
+      <pubDate>Mon, 20 Apr 2026 23:00:59 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/quant-math-basics/</guid>
+      <description>The math concepts that keep appearing in quant trading articles: log returns, mean and variance, normal distributions and fat tails, covariance matrices, OLS regression, and partial derivatives. Each explained with a trading context and Python code.</description>
+    </item>
+    <item>
+      <title>Fama-French Factor Model: From Three Factors to Five</title>
+      <link>https://coriva.eu.org/en/fama-french-factor-model/</link>
+      <pubDate>Thu, 16 Apr 2026 14:25:18 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/fama-french-factor-model/</guid>
+      <description>A beginner-friendly explanation of the Fama-French three-factor and five-factor models, how factors are constructed, Python regression code, and the limitations of factor investing.</description>
+    </item>
+    <item>
+      <title>Quant Trading Markets: Stocks, Futures, Options, Forex, Crypto</title>
+      <link>https://coriva.eu.org/en/quant-trading-markets/</link>
+      <pubDate>Thu, 16 Apr 2026 12:49:44 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/quant-trading-markets/</guid>
+      <description>A quant trader&amp;#39;s comparison of stocks, futures, options, forex, and crypto: trading rules, data ecosystems, leverage, volatility, and which strategies fit each market.</description>
+    </item>
+    <item>
+      <title>CTA Strategy Guide: Trend Following, Futures Arbitrage, and Python Implementation</title>
+      <link>https://coriva.eu.org/en/cta-strategy-guide/</link>
+      <pubDate>Thu, 16 Apr 2026 08:08:25 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/cta-strategy-guide/</guid>
+      <description>CTA strategy taxonomy, trend following with dual moving average crossover, futures calendar and intercommodity spread arbitrage, with Python simulation code and backtest results.</description>
+    </item>
+    <item>
+      <title>Pairs Trading Guide: Cointegration, Spread Construction, and Python Implementation</title>
+      <link>https://coriva.eu.org/en/pairs-trading-guide/</link>
+      <pubDate>Wed, 15 Apr 2026 18:10:05 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/pairs-trading-guide/</guid>
+      <description>Pairs trading from scratch: why cointegration beats correlation, Engle-Granger testing, spread construction, Z-score signal generation, and Python backtesting code.</description>
+    </item>
+    <item>
+      <title>Kelly Criterion and Position Sizing: From Formula to Quant Practice</title>
+      <link>https://coriva.eu.org/en/kelly-criterion-position-sizing/</link>
+      <pubDate>Wed, 15 Apr 2026 18:07:35 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/kelly-criterion-position-sizing/</guid>
+      <description>Kelly Criterion math, continuous-case derivation, connection to Sharpe ratio, fractional Kelly in practice, multi-asset extension, and Python position sizing simulations.</description>
+    </item>
+    <item>
+      <title>Option Greeks Calculator: Delta, Gamma, Theta, Vega Online Tool</title>
+      <link>https://coriva.eu.org/en/option-greeks-calculator/</link>
+      <pubDate>Tue, 14 Apr 2026 16:57:01 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/option-greeks-calculator/</guid>
+      <description>Free online option Greeks calculator: instantly compute Delta, Gamma, Theta, Vega and second-order Greeks (Vanna, Charm, Volga) with interactive charts. Based on the Black-Scholes model.</description>
+    </item>
+    <item>
+      <title>Alpha 101 Liquidity and Composite Factors &#43; Portfolio Construction</title>
+      <link>https://coriva.eu.org/en/alpha101-liquidity/</link>
+      <pubDate>Tue, 14 Apr 2026 14:59:56 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alpha101-liquidity/</guid>
+      <description>Alpha 101 liquidity and composite factors explained: conditional liquidity, multi-layer decay signals, Boolean factors, plus practical advice on building multi-factor portfolios from 101 alphas.</description>
+    </item>
+    <item>
+      <title>Alpha 101 Volatility and Intraday Structure Factors Explained</title>
+      <link>https://coriva.eu.org/en/alpha101-volatility/</link>
+      <pubDate>Tue, 14 Apr 2026 14:57:10 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alpha101-volatility/</guid>
+      <description>Alpha 101 volatility and intraday structure factors broken down: conditional volatility, short-vs-long vol ratio, CLV indicator, VWAP deviation, and nonlinear intraday amplification.</description>
+    </item>
+    <item>
+      <title>Alpha 101 Momentum and Reversal Factors Explained</title>
+      <link>https://coriva.eu.org/en/alpha101-momentum/</link>
+      <pubDate>Tue, 14 Apr 2026 14:54:26 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alpha101-momentum/</guid>
+      <description>Alpha 101 momentum and reversal factors broken down: conditional reversal, gap fill strategies, multi-timeframe interactions, and when to follow trends vs bet against them.</description>
+    </item>
+    <item>
+      <title>Alpha 101 Price-Volume Divergence Factors Explained</title>
+      <link>https://coriva.eu.org/en/alpha101-price-volume/</link>
+      <pubDate>Tue, 14 Apr 2026 14:51:52 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alpha101-price-volume/</guid>
+      <description>Deep dive into Alpha 101 price-volume divergence factors: from simple correlation(rank(open), rank(volume)) to three-factor interactions, with full formula breakdowns.</description>
+    </item>
+    <item>
+      <title>WorldQuant Alpha 101 Explained: Factor Taxonomy and Operator Reference</title>
+      <link>https://coriva.eu.org/en/alpha101-overview/</link>
+      <pubDate>Tue, 14 Apr 2026 11:37:53 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alpha101-overview/</guid>
+      <description>Deep dive into WorldQuant&amp;#39;s 101 Formulaic Alphas: all 101 factors classified by economic logic, operator intuition guide, pandas code, and full reference table.</description>
+    </item>
+    <item>
+      <title>Volatility Trading Strategies: 6 Ways to Go Long or Short Vol</title>
+      <link>https://coriva.eu.org/en/volatility-trading-strategies/</link>
+      <pubDate>Mon, 13 Apr 2026 16:23:21 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/volatility-trading-strategies/</guid>
+      <description>Compare 6 volatility trading strategies: Long Straddle, Strangle, Calendar Spread, Short Straddle, Short Strangle, Iron Condor. Use IV Rank to pick the right one.</description>
+    </item>
+    <item>
+      <title>Option Greeks in Practice: Strategy Analysis, Hedging, and Gamma Scalping</title>
+      <link>https://coriva.eu.org/en/option-greeks-trading/</link>
+      <pubDate>Sun, 12 Apr 2026 23:46:17 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/option-greeks-trading/</guid>
+      <description>Option Greeks in action: strategy decomposition with Greeks, Python-simulated Delta hedging, Gamma Scalping P&amp;amp;L walkthrough, and market-maker risk management.</description>
+    </item>
+    <item>
+      <title>Second-Order Greeks: Vanna, Charm, Volga and Volatility Surfaces</title>
+      <link>https://coriva.eu.org/en/option-greeks-second-order/</link>
+      <pubDate>Sun, 12 Apr 2026 23:40:46 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/option-greeks-second-order/</guid>
+      <description>Second-order option Greeks with Python code: Vanna, Charm, and Volga formulas, intuitive explanations, and their role in shaping the volatility surface.</description>
+    </item>
+    <item>
+      <title>Option Greeks: Formulas, Python Code, and Charts</title>
+      <link>https://coriva.eu.org/en/option-greeks-guide/</link>
+      <pubDate>Sun, 12 Apr 2026 23:04:45 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/option-greeks-guide/</guid>
+      <description>A practical guide to option Greeks under the Black-Scholes framework: Delta, Gamma, Theta, Vega formulas with Python code, market-maker hedging insights, and visualizations.</description>
+    </item>
+    <item>
+      <title>TA-Lib Python Tutorial: The Complete Guide</title>
+      <link>https://coriva.eu.org/en/ta-lib-python-tutorial/</link>
+      <pubDate>Sun, 12 Apr 2026 12:28:00 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/ta-lib-python-tutorial/</guid>
+      <description>Complete TA-Lib Python tutorial: installation, Function vs Abstract API, technical indicators with parameter tips, candlestick patterns, Pandas integration, and comparison with pandas-ta.</description>
+    </item>
+    <item>
+      <title>The Complete Guide to Backtesting Pitfalls in Quantitative Trading</title>
+      <link>https://coriva.eu.org/en/backtesting-pitfalls/</link>
+      <pubDate>Fri, 10 Apr 2026 22:42:15 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/backtesting-pitfalls/</guid>
+      <description>Common backtesting pitfalls in quantitative trading: overfitting, look-ahead bias, survivorship bias, transaction cost modeling, with Python code examples and a self-check checklist.</description>
+    </item>
+    <item>
+      <title>AlphaGPT: Mining Quantitative Factors with LLMs</title>
+      <link>https://coriva.eu.org/en/alphagpt-paper-review/</link>
+      <pubDate>Fri, 10 Apr 2026 00:18:47 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alphagpt-paper-review/</guid>
+      <description>A review of the AlphaGPT paper: how LLMs participate in alpha factor mining, comparison with genetic programming, and the human-AI collaborative quant research paradigm.</description>
+    </item>
+    <item>
+      <title>A Complete Guide to Quantitative Trading Metrics</title>
+      <link>https://coriva.eu.org/en/quant-metrics-guide/</link>
+      <pubDate>Fri, 10 Apr 2026 00:18:07 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/quant-metrics-guide/</guid>
+      <description>A complete guide to quantitative trading metrics: Sharpe ratio, Sortino, Calmar, maximum drawdown, win rate, with formulas and Python code.</description>
+    </item>
+    <item>
+      <title>MEDUSA: Detailed Explanation of the Mechanism</title>
+      <link>https://coriva.eu.org/en/medusa-detailed-explanation-of-the-mechanism/</link>
+      <pubDate>Fri, 03 Jan 2025 11:34:14 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/medusa-detailed-explanation-of-the-mechanism/</guid>
+      <description>A deep dive into MEDUSA, an LLM inference acceleration framework using multiple decoding heads for faster text generation.</description>
+    </item>
+    <item>
+      <title>How to Use yfinance to Download Stock P/E Ratio</title>
+      <link>https://coriva.eu.org/en/how-to-use-yfinance-to-download-stock-p-e-ratio/</link>
+      <pubDate>Sat, 14 Dec 2024 18:52:04 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/how-to-use-yfinance-to-download-stock-p-e-ratio/</guid>
+      <description>How to retrieve stock P/E ratios using Python&amp;#39;s yfinance library with code examples.</description>
+    </item>
+    <item>
+      <title>A Tutorial to use yfinance</title>
+      <link>https://coriva.eu.org/en/a-tutorial-to-use-yfinance/</link>
+      <pubDate>Sat, 14 Dec 2024 10:14:21 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/a-tutorial-to-use-yfinance/</guid>
+      <description>A step-by-step guide to installing and using the yfinance Python library to download stock data from Yahoo Finance.</description>
+    </item>
+    <item>
+      <title>How to Solve the Drive D Not Found Issue</title>
+      <link>https://coriva.eu.org/en/how-to-solve-the-drive-d-not-found-issue/</link>
+      <pubDate>Sat, 14 Dec 2024 10:11:01 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/how-to-solve-the-drive-d-not-found-issue/</guid>
+      <description>Troubleshooting guide to fix the Drive D Not Found error on Windows, covering hardware, drivers, and partition recovery.</description>
+    </item>
+    <item>
+      <title>How to Solve the Windows 11 RDP Black Screen Issue</title>
+      <link>https://coriva.eu.org/en/how-to-solve-the-windows-11-rdp-black-screen-issue/</link>
+      <pubDate>Sat, 14 Dec 2024 09:46:27 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/how-to-solve-the-windows-11-rdp-black-screen-issue/</guid>
+      <description>Step-by-step solutions to fix the black screen issue when using Remote Desktop Protocol on Windows 11.</description>
+    </item>
+    <item>
+      <title>Key Questions Before Starting an LLM Startup</title>
+      <link>https://coriva.eu.org/en/llm-based-startup-issues/</link>
+      <pubDate>Thu, 21 Dec 2023 15:43:31 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/llm-based-startup-issues/</guid>
+      <description>Critical questions to answer before starting an LLM-based business: technical moats, business models, and competitive landscape.</description>
+    </item>
+    <item>
+      <title>Phi-2: The Surprising Power of Small Language Models</title>
+      <link>https://coriva.eu.org/en/phi-2-summary/</link>
+      <pubDate>Thu, 14 Dec 2023 17:34:37 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/phi-2-summary/</guid>
+      <description>A technical breakdown of Microsoft&amp;#39;s Phi-2: how a 2.7B parameter model rivals much larger models through data quality and scaling innovations.</description>
+    </item>
+    <item>
+      <title>Textbooks Are All You Need: Key Takeaways</title>
+      <link>https://coriva.eu.org/en/textbooks-are-all-you-need-summary/</link>
+      <pubDate>Wed, 13 Dec 2023 00:33:39 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/textbooks-are-all-you-need-summary/</guid>
+      <description>Key takeaways from Microsoft&amp;#39;s Phi-1 paper: how high-quality textbook data enables small models to match large model capabilities.</description>
+    </item>
+    <item>
+      <title>Spaghetti Code: Traps and Lessons in Development</title>
+      <link>https://coriva.eu.org/en/how-to-prevent-spaghetti-code/</link>
+      <pubDate>Mon, 11 Dec 2023 19:56:18 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/how-to-prevent-spaghetti-code/</guid>
+      <description>How to avoid spaghetti code: common code quality traps in development and practical ways to fix them.</description>
+    </item>
+    <item>
+      <title>The Lessons of History: Key Takeaways</title>
+      <link>https://coriva.eu.org/en/the-lessons-of-history-summary/</link>
+      <pubDate>Mon, 11 Dec 2023 15:25:02 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/the-lessons-of-history-summary/</guid>
+      <description>Key insights from Will Durant&amp;#39;s The Lessons of History: core lessons about human civilization distilled from historical patterns.</description>
+    </item>
+    <item>
+      <title>Open Hyperlinks from Outlook in Chrome</title>
+      <link>https://coriva.eu.org/en/open-hyperlinks-from-outlook-in-chrome/</link>
+      <pubDate>Thu, 07 Dec 2023 14:51:24 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/open-hyperlinks-from-outlook-in-chrome/</guid>
+      <description>How to fix Outlook opening links in Edge instead of Chrome, even when Chrome is the default browser.</description>
+    </item>
+    <item>
+      <title>A ChatGPT-Written Hospital Appointment Bot</title>
+      <link>https://coriva.eu.org/en/bjmu-appointment-code/</link>
+      <pubDate>Wed, 06 Dec 2023 23:59:26 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/bjmu-appointment-code/</guid>
+      <description>Using ChatGPT to write an automated appointment booking program for Peking University School of Stomatology.</description>
+    </item>
+    <item>
+      <title>Introduction to Retrieval-Augmented Generation (RAG)</title>
+      <link>https://coriva.eu.org/en/intro-to-rag/</link>
+      <pubDate>Wed, 06 Dec 2023 23:50:54 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/intro-to-rag/</guid>
+      <description>An introduction to Retrieval-Augmented Generation (RAG): combining retrieval with large language models to improve answer quality.</description>
+    </item>
+    <item>
+      <title>Everyone Works Based on Their Time Zone</title>
+      <link>https://coriva.eu.org/en/everyone-works-based-on-their-timezone/</link>
+      <pubDate>Tue, 05 Dec 2023 23:15:37 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/everyone-works-based-on-their-timezone/</guid>
+      <description>A reflection on life&amp;#39;s pace: everyone has their own time zone, no need to rush.</description>
+    </item>
+    <item>
+      <title>WordPress Permalinks 404 Issue Solution</title>
+      <link>https://coriva.eu.org/en/wordpress-permalinks-404-issue-solution/</link>
+      <pubDate>Tue, 05 Dec 2023 18:54:22 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/wordpress-permalinks-404-issue-solution/</guid>
+      <description>How to fix WordPress permalinks returning 404 errors after changing URL structure.</description>
+    </item>
+    <item>
+      <title>Book Review: Yu Jun&#39;s Product Methodology</title>
+      <link>https://coriva.eu.org/en/yujunproduct/</link>
+      <pubDate>Tue, 05 Dec 2023 18:18:50 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/yujunproduct/</guid>
+      <description>A review of Yu Jun&amp;#39;s Product Methodology: core frameworks and career positioning for product managers.</description>
+    </item>
+  </channel>
+</rss>

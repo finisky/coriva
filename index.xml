@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Coriva</title>
+    <link>https://coriva.eu.org/</link>
+    <description>Recent content on Coriva</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 20 May 2026 12:46:42 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QuantaAlpha：把因子挖掘当成轨迹来进化</title>
+      <link>https://coriva.eu.org/quantaalpha-paper-review/</link>
+      <pubDate>Wed, 20 May 2026 12:46:42 +0800</pubDate>
+      <guid>https://coriva.eu.org/quantaalpha-paper-review/</guid>
+      <description>QuantaAlpha 论文解读：把 LLM 因子挖掘建模为 trajectory，用 mutation/crossover 自进化。CSI 300 IC 0.0472，零样本迁移 S&amp;amp;P 500 超额 19.1%。</description>
+    </item>
+    <item>
+      <title>末日期权（0DTE）完全指南：机制、Greeks 与盈亏真相</title>
+      <link>https://coriva.eu.org/0dte-options-guide/</link>
+      <pubDate>Mon, 11 May 2026 22:00:44 +0800</pubDate>
+      <guid>https://coriva.eu.org/0dte-options-guide/</guid>
+      <description>末日期权（0DTE）机制深度解析：Gamma/Theta 在最后交易日的非线性塌缩、三类参与者的 payoff 剖面、散户买方真实盈亏分布，以及为什么大多数人在末日期权上亏钱。</description>
+    </item>
+    <item>
+      <title>Qlib 教程：从安装到第一个量化策略</title>
+      <link>https://coriva.eu.org/qlib-tutorial/</link>
+      <pubDate>Mon, 11 May 2026 13:18:56 +0800</pubDate>
+      <guid>https://coriva.eu.org/qlib-tutorial/</guid>
+      <description>Qlib 教程：从 pip 安装、Alpha158 因子集、LightGBM 训练到回测分析的完整入门指南，含架构图、可运行代码和 Windows 常见报错避坑清单。</description>
+    </item>
+    <item>
+      <title>vectorbt 入门教程：向量化思路做 Python 量化回测</title>
+      <link>https://coriva.eu.org/vectorbt-tutorial/</link>
+      <pubDate>Fri, 08 May 2026 14:29:55 +0800</pubDate>
+      <guid>https://coriva.eu.org/vectorbt-tutorial/</guid>
+      <description>vectorbt 入门教程：从安装到双均线策略再到 10000 组参数网格搜索，讲清楚向量化回测的思路、Portfolio 三种入口的差别和常见踩坑。</description>
+    </item>
+    <item>
+      <title>AlphaAgent：用正则化探索对抗因子衰减</title>
+      <link>https://coriva.eu.org/alphaagent-paper-review/</link>
+      <pubDate>Tue, 21 Apr 2026 13:47:28 +0800</pubDate>
+      <guid>https://coriva.eu.org/alphaagent-paper-review/</guid>
+      <description>AlphaAgent 论文解读：多 Agent 框架结合 AST 去重、假设对齐、复杂度控制三重正则化，在 CSI 500 和 S&amp;amp;P 500 上挖掘抗衰减的 Alpha 因子。</description>
+    </item>
+    <item>
+      <title>量化交易的数学基础：从对数收益率到线性回归</title>
+      <link>https://coriva.eu.org/quant-math-basics/</link>
+      <pubDate>Mon, 20 Apr 2026 22:55:21 +0800</pubDate>
+      <guid>https://coriva.eu.org/quant-math-basics/</guid>
+      <description>量化交易中反复出现的数学概念集中讲解：对数收益率、均值方差、正态分布与肥尾、协方差矩阵、OLS回归、偏导数，每个概念用交易场景解释，附 Python 代码。</description>
+    </item>
+    <item>
+      <title>Fama-French 因子模型：从三因子到五因子的量化选股基础</title>
+      <link>https://coriva.eu.org/fama-french-factor-model/</link>
+      <pubDate>Thu, 16 Apr 2026 14:22:55 +0800</pubDate>
+      <guid>https://coriva.eu.org/fama-french-factor-model/</guid>
+      <description>用大白话讲清楚 Fama-French 三因子和五因子模型的原理、因子构造方法、Python 回归实战，以及因子模型在量化选股中的应用和局限。</description>
+    </item>
+    <item>
+      <title>量化交易市场全景：股票、期货、期权、外汇、加密货币怎么选</title>
+      <link>https://coriva.eu.org/quant-trading-markets/</link>
+      <pubDate>Thu, 16 Apr 2026 12:47:40 +0800</pubDate>
+      <guid>https://coriva.eu.org/quant-trading-markets/</guid>
+      <description>从量化交易者视角系统对比股票、期货、期权、外汇、加密货币五大市场的交易规则、数据生态、杠杆结构、波动率特征和适合的量化策略类型，附市场特征雷达图和波动率对比。</description>
+    </item>
+    <item>
+      <title>CTA 策略入门：趋势跟踪、期货套利与 Python 实战</title>
+      <link>https://coriva.eu.org/cta-strategy-guide/</link>
+      <pubDate>Thu, 16 Apr 2026 08:00:34 +0800</pubDate>
+      <guid>https://coriva.eu.org/cta-strategy-guide/</guid>
+      <description>CTA策略分类、趋势跟踪双均线系统实现、期货跨期与跨品种套利原理，附 Python 模拟代码和回测结果。</description>
+    </item>
+    <item>
+      <title>配对交易入门：协整检验、价差构建与 Python 实战</title>
+      <link>https://coriva.eu.org/pairs-trading-guide/</link>
+      <pubDate>Wed, 15 Apr 2026 18:08:42 +0800</pubDate>
+      <guid>https://coriva.eu.org/pairs-trading-guide/</guid>
+      <description>配对交易完整流程：为什么用协整而不是相关性、Engle-Granger 检验、价差构建、Z-score 信号生成、Python 回测代码。</description>
+    </item>
+    <item>
+      <title>凯利公式与仓位管理：从数学公式到量化实战</title>
+      <link>https://coriva.eu.org/kelly-criterion-position-sizing/</link>
+      <pubDate>Wed, 15 Apr 2026 18:06:00 +0800</pubDate>
+      <guid>https://coriva.eu.org/kelly-criterion-position-sizing/</guid>
+      <description>凯利公式的数学推导、连续版本与夏普比率的关系、分数凯利实操、多资产扩展，附 Python 仓位模拟代码。</description>
+    </item>
+    <item>
+      <title>期权Greeks计算器：在线计算 Delta、Gamma、Theta、Vega</title>
+      <link>https://coriva.eu.org/option-greeks-calculator/</link>
+      <pubDate>Tue, 14 Apr 2026 16:55:20 +0800</pubDate>
+      <guid>https://coriva.eu.org/option-greeks-calculator/</guid>
+      <description>在线期权Greeks计算器：输入参数即时计算 Delta、Gamma、Theta、Vega 等一阶和二阶Greeks，附可视化曲线图。基于 Black-Scholes 模型。</description>
+    </item>
+    <item>
+      <title>Alpha 101 流动性与复合因子详解 &#43; 因子组合实战</title>
+      <link>https://coriva.eu.org/alpha101-liquidity/</link>
+      <pubDate>Tue, 14 Apr 2026 14:58:18 +0800</pubDate>
+      <guid>https://coriva.eu.org/alpha101-liquidity/</guid>
+      <description>Alpha 101 流动性与复合因子拆解：条件流动性、多层嵌套衰减信号、布尔型因子，以及从 101 个单因子到多因子组合的实操建议。</description>
+    </item>
+    <item>
+      <title>Alpha 101 波动率与日内结构类因子详解</title>
+      <link>https://coriva.eu.org/alpha101-volatility/</link>
+      <pubDate>Tue, 14 Apr 2026 14:55:35 +0800</pubDate>
+      <guid>https://coriva.eu.org/alpha101-volatility/</guid>
+      <description>Alpha 101 波动率与日内结构类因子深度拆解：条件波动率、短长期波动比、CLV 指标、VWAP 偏离和日内价格结构的非线性放大。</description>
+    </item>
+    <item>
+      <title>Alpha 101 动量与反转类因子详解</title>
+      <link>https://coriva.eu.org/alpha101-momentum/</link>
+      <pubDate>Tue, 14 Apr 2026 14:52:57 +0800</pubDate>
+      <guid>https://coriva.eu.org/alpha101-momentum/</guid>
+      <description>Alpha 101 动量与反转类因子拆解：条件反转、跳空缺口回补、多时间尺度交互，搞清楚什么时候该追趋势、什么时候该做反转。</description>
+    </item>
+    <item>
+      <title>Alpha 101 量价背离类因子详解</title>
+      <link>https://coriva.eu.org/alpha101-price-volume/</link>
+      <pubDate>Tue, 14 Apr 2026 14:50:06 +0800</pubDate>
+      <guid>https://coriva.eu.org/alpha101-price-volume/</guid>
+      <description>Alpha 101 量价背离类因子深度拆解：从最简单的 correlation(rank(open), rank(volume)) 到三因子交互，逐层讲解公式背后的经济直觉。</description>
+    </item>
+    <item>
+      <title>WorldQuant Alpha 101 全解读：因子分类与算子速查</title>
+      <link>https://coriva.eu.org/alpha101-overview/</link>
+      <pubDate>Tue, 14 Apr 2026 11:33:08 +0800</pubDate>
+      <guid>https://coriva.eu.org/alpha101-overview/</guid>
+      <description>WorldQuant Alpha 101 论文深度解读：101 个量化因子按经济逻辑分为五大类，附算子直觉讲解、pandas 代码与完整分类对照表。</description>
+    </item>
+    <item>
+      <title>波动率交易策略入门：做多与做空波动率的六种方法</title>
+      <link>https://coriva.eu.org/volatility-trading-strategies/</link>
+      <pubDate>Mon, 13 Apr 2026 16:19:35 +0800</pubDate>
+      <guid>https://coriva.eu.org/volatility-trading-strategies/</guid>
+      <description>波动率交易策略对比：用IV Rank判断波动率高低，选择Long Straddle、Strangle、Iron Condor等六种策略做多或做空波动率。</description>
+    </item>
+    <item>
+      <title>期权Greeks实战：策略分析、动态对冲与Gamma Scalping</title>
+      <link>https://coriva.eu.org/option-greeks-trading/</link>
+      <pubDate>Sun, 12 Apr 2026 23:42:48 +0800</pubDate>
+      <guid>https://coriva.eu.org/option-greeks-trading/</guid>
+      <description>期权Greeks实战应用：用Greeks拆解常见策略、Python模拟动态Delta对冲、Gamma Scalping逐日P&amp;amp;L演示、做市商风控框架。</description>
+    </item>
+    <item>
+      <title>二阶Greeks详解：Vanna、Charm、Volga 的公式与波动率曲面建模</title>
+      <link>https://coriva.eu.org/option-greeks-second-order/</link>
+      <pubDate>Sun, 12 Apr 2026 23:37:10 +0800</pubDate>
+      <guid>https://coriva.eu.org/option-greeks-second-order/</guid>
+      <description>二阶期权Greeks公式与Python实现：Vanna、Charm、Volga的数学推导、直觉解释，以及它们如何塑造波动率曲面。</description>
+    </item>
+    <item>
+      <title>期权Greeks完全指南：Delta、Gamma、Theta、Vega 的公式与代码实现</title>
+      <link>https://coriva.eu.org/option-greeks-guide/</link>
+      <pubDate>Sun, 12 Apr 2026 23:03:45 +0800</pubDate>
+      <guid>https://coriva.eu.org/option-greeks-guide/</guid>
+      <description>期权Greeks入门指南：Black-Scholes 框架下 Delta、Gamma、Theta、Vega 的公式解读，附 Python 计算代码、做市商对冲经验和可视化图表。</description>
+    </item>
+    <item>
+      <title>TA-Lib Python 完整教程</title>
+      <link>https://coriva.eu.org/ta-lib-python-tutorial/</link>
+      <pubDate>Sun, 12 Apr 2026 12:25:43 +0800</pubDate>
+      <guid>https://coriva.eu.org/ta-lib-python-tutorial/</guid>
+      <description>TA-Lib Python 教程：安装方法、Function 与 Abstract 两套 API、核心技术指标实战、K线形态识别、Pandas 集成与 pandas-ta 对比，附完整策略代码。</description>
+    </item>
+    <item>
+      <title>量化回测陷阱大全</title>
+      <link>https://coriva.eu.org/backtesting-pitfalls/</link>
+      <pubDate>Fri, 10 Apr 2026 22:41:45 +0800</pubDate>
+      <guid>https://coriva.eu.org/backtesting-pitfalls/</guid>
+      <description>量化回测中最常见的陷阱：过拟合、前视偏差、幸存者偏差、交易成本建模，附 Python 代码对比和自查清单。</description>
+    </item>
+    <item>
+      <title>AlphaGPT：用大模型挖掘量化因子</title>
+      <link>https://coriva.eu.org/alphagpt-paper-review/</link>
+      <pubDate>Fri, 10 Apr 2026 00:18:27 +0800</pubDate>
+      <guid>https://coriva.eu.org/alphagpt-paper-review/</guid>
+      <description>AlphaGPT 论文解读：大模型如何参与量化因子挖掘，对比遗传规划方法的优劣，以及人机协作的 Alpha 研究新范式。</description>
+    </item>
+    <item>
+      <title>量化投资常用指标大全</title>
+      <link>https://coriva.eu.org/quant-metrics-guide/</link>
+      <pubDate>Fri, 10 Apr 2026 00:17:47 +0800</pubDate>
+      <guid>https://coriva.eu.org/quant-metrics-guide/</guid>
+      <description>量化交易指标完整指南：年化收益、最大回撤、夏普比率、Sortino、Calmar、盈亏比，附公式与 Python 代码。</description>
+    </item>
+    <item>
+      <title>MEDUSA 推理加速机制详解</title>
+      <link>https://coriva.eu.org/medusa-detailed-explanation-of-the-mechanism/</link>
+      <pubDate>Fri, 03 Jan 2025 11:34:14 +0800</pubDate>
+      <guid>https://coriva.eu.org/medusa-detailed-explanation-of-the-mechanism/</guid>
+      <description>MEDUSA 大模型推理加速框架的技术原理：多解码头并行生成如何提升推理速度。</description>
+    </item>
+    <item>
+      <title>用 yfinance 下载股票市盈率</title>
+      <link>https://coriva.eu.org/how-to-use-yfinance-to-download-stock-p-e-ratio/</link>
+      <pubDate>Sat, 14 Dec 2024 18:52:04 +0800</pubDate>
+      <guid>https://coriva.eu.org/how-to-use-yfinance-to-download-stock-p-e-ratio/</guid>
+      <description>用 Python yfinance 库获取股票市盈率（P/E Ratio）的完整代码示例。</description>
+    </item>
+    <item>
+      <title>yfinance 使用教程</title>
+      <link>https://coriva.eu.org/a-tutorial-to-use-yfinance/</link>
+      <pubDate>Sat, 14 Dec 2024 10:14:21 +0800</pubDate>
+      <guid>https://coriva.eu.org/a-tutorial-to-use-yfinance/</guid>
+      <description>使用 Python yfinance 库下载股票数据的完整教程，涵盖安装、历史数据获取与分析。</description>
+    </item>
+    <item>
+      <title>解决 Windows D 盘消失问题</title>
+      <link>https://coriva.eu.org/how-to-solve-the-drive-d-not-found-issue/</link>
+      <pubDate>Sat, 14 Dec 2024 10:11:01 +0800</pubDate>
+      <guid>https://coriva.eu.org/how-to-solve-the-drive-d-not-found-issue/</guid>
+      <description>Windows 系统 D 盘消失的排查与修复指南，涵盖硬件连接、驱动更新与分区恢复。</description>
+    </item>
+    <item>
+      <title>解决 Windows 11 远程桌面黑屏问题</title>
+      <link>https://coriva.eu.org/how-to-solve-the-windows-11-rdp-black-screen-issue/</link>
+      <pubDate>Sat, 14 Dec 2024 09:46:27 +0800</pubDate>
+      <guid>https://coriva.eu.org/how-to-solve-the-windows-11-rdp-black-screen-issue/</guid>
+      <description>Windows 11 远程桌面连接出现黑屏的原因分析与解决方法，通过回滚网卡驱动修复。</description>
+    </item>
+    <item>
+      <title>大模型创业前必须想清楚的问题</title>
+      <link>https://coriva.eu.org/llm-based-startup-issues/</link>
+      <pubDate>Thu, 21 Dec 2023 15:43:31 +0800</pubDate>
+      <guid>https://coriva.eu.org/llm-based-startup-issues/</guid>
+      <description>大模型创业前需要想清楚的关键问题：技术壁垒、商业模式与竞争格局。</description>
+    </item>
+    <item>
+      <title>Phi-2: 小型语言模型的惊人威力</title>
+      <link>https://coriva.eu.org/phi-2-summary/</link>
+      <pubDate>Thu, 14 Dec 2023 17:34:37 +0800</pubDate>
+      <guid>https://coriva.eu.org/phi-2-summary/</guid>
+      <description>微软Phi-2小型语言模型的技术解析：27亿参数如何媲美更大模型的性能。</description>
+    </item>
+    <item>
+      <title>Textbooks Are All You Need 精要</title>
+      <link>https://coriva.eu.org/textbooks-are-all-you-need-summary/</link>
+      <pubDate>Wed, 13 Dec 2023 00:33:39 +0800</pubDate>
+      <guid>https://coriva.eu.org/textbooks-are-all-you-need-summary/</guid>
+      <description>微软Phi-1论文精要：高质量教科书数据如何让小模型实现大模型的能力。</description>
+    </item>
+    <item>
+      <title>“屎山代码”：开发中的陷阱与教训</title>
+      <link>https://coriva.eu.org/how-to-prevent-spaghetti-code/</link>
+      <pubDate>Mon, 11 Dec 2023 19:56:18 +0800</pubDate>
+      <guid>https://coriva.eu.org/how-to-prevent-spaghetti-code/</guid>
+      <description>如何避免屎山代码：开发中常见的代码质量陷阱与改进方法。</description>
+    </item>
+    <item>
+      <title>《历史的教训》精要</title>
+      <link>https://coriva.eu.org/the-lessons-of-history-summary/</link>
+      <pubDate>Mon, 11 Dec 2023 15:25:02 +0800</pubDate>
+      <guid>https://coriva.eu.org/the-lessons-of-history-summary/</guid>
+      <description>威尔·杜兰特《历史的教训》精要：从历史规律中提炼人类文明的核心洞察。</description>
+    </item>
+    <item>
+      <title>让 Outlook 链接在 Chrome 中打开</title>
+      <link>https://coriva.eu.org/open-hyperlinks-from-outlook-in-chrome/</link>
+      <pubDate>Thu, 07 Dec 2023 14:51:24 +0800</pubDate>
+      <guid>https://coriva.eu.org/open-hyperlinks-from-outlook-in-chrome/</guid>
+      <description>解决 Outlook 中点击链接默认用 Edge 打开的问题，即使 Chrome 已设为默认浏览器。</description>
+    </item>
+    <item>
+      <title>ChatGPT写的北大口腔挂号程序</title>
+      <link>https://coriva.eu.org/bjmu-appointment-code/</link>
+      <pubDate>Wed, 06 Dec 2023 23:59:26 +0800</pubDate>
+      <guid>https://coriva.eu.org/bjmu-appointment-code/</guid>
+      <description>用ChatGPT编写的北大口腔医院自动挂号程序的实现过程。</description>
+    </item>
+    <item>
+      <title>检索增强生成（RAG）简介</title>
+      <link>https://coriva.eu.org/intro-to-rag/</link>
+      <pubDate>Wed, 06 Dec 2023 23:50:54 +0800</pubDate>
+      <guid>https://coriva.eu.org/intro-to-rag/</guid>
+      <description>检索增强生成（RAG）技术的原理介绍，结合检索与大语言模型提升回答质量。</description>
+    </item>
+    <item>
+      <title>每个人都有自己的时区</title>
+      <link>https://coriva.eu.org/everyone-works-based-on-their-timezone/</link>
+      <pubDate>Tue, 05 Dec 2023 23:15:37 +0800</pubDate>
+      <guid>https://coriva.eu.org/everyone-works-based-on-their-timezone/</guid>
+      <description>关于人生节奏的感悟：每个人都有自己的时区，不必焦虑。</description>
+    </item>
+    <item>
+      <title>WordPress 固定链接 404 问题解决</title>
+      <link>https://coriva.eu.org/wordpress-permalinks-404-issue-solution/</link>
+      <pubDate>Tue, 05 Dec 2023 18:54:22 +0800</pubDate>
+      <guid>https://coriva.eu.org/wordpress-permalinks-404-issue-solution/</guid>
+      <description>WordPress 修改固定链接结构后出现 404 错误的 nginx 配置修复方法。</description>
+    </item>
+    <item>
+      <title>《俞军产品方法论》书评</title>
+      <link>https://coriva.eu.org/yujunproduct/</link>
+      <pubDate>Tue, 05 Dec 2023 18:18:50 +0800</pubDate>
+      <guid>https://coriva.eu.org/yujunproduct/</guid>
+      <description>《俞军产品方法论》书评：产品经理的核心方法论与职业定位。</description>
+    </item>
+  </channel>
+</rss>

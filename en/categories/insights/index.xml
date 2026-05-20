@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Insights on Coriva</title>
+    <link>https://coriva.eu.org/en/categories/insights/</link>
+    <description>Recent content in Insights on Coriva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Dec 2023 15:25:02 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/en/categories/insights/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Lessons of History: Key Takeaways</title>
+      <link>https://coriva.eu.org/en/the-lessons-of-history-summary/</link>
+      <pubDate>Mon, 11 Dec 2023 15:25:02 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/the-lessons-of-history-summary/</guid>
+      <description>Key insights from Will Durant&amp;#39;s The Lessons of History: core lessons about human civilization distilled from historical patterns.</description>
+    </item>
+    <item>
+      <title>Everyone Works Based on Their Time Zone</title>
+      <link>https://coriva.eu.org/en/everyone-works-based-on-their-timezone/</link>
+      <pubDate>Tue, 05 Dec 2023 23:15:37 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/everyone-works-based-on-their-timezone/</guid>
+      <description>A reflection on life&amp;#39;s pace: everyone has their own time zone, no need to rush.</description>
+    </item>
+    <item>
+      <title>Book Review: Yu Jun&#39;s Product Methodology</title>
+      <link>https://coriva.eu.org/en/yujunproduct/</link>
+      <pubDate>Tue, 05 Dec 2023 18:18:50 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/yujunproduct/</guid>
+      <description>A review of Yu Jun&amp;#39;s Product Methodology: core frameworks and career positioning for product managers.</description>
+    </item>
+  </channel>
+</rss>

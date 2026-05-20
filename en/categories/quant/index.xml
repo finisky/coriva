@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Quant on Coriva</title>
+    <link>https://coriva.eu.org/en/categories/quant/</link>
+    <description>Recent content in Quant on Coriva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 May 2026 12:48:20 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/en/categories/quant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QuantaAlpha: Evolving Alpha Mining as Trajectories</title>
+      <link>https://coriva.eu.org/en/quantaalpha-paper-review/</link>
+      <pubDate>Wed, 20 May 2026 12:48:20 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/quantaalpha-paper-review/</guid>
+      <description>QuantaAlpha paper review: treat each end-to-end LLM alpha mining run as a trajectory, then evolve via mutation and crossover. IC 0.0472 on CSI 300, with zero-shot transfer to S&amp;amp;P 500 still delivering 19.1% cumulative excess return.</description>
+    </item>
+    <item>
+      <title>0DTE Options Explained: Mechanics, Greeks, and Real P&amp;L Distribution</title>
+      <link>https://coriva.eu.org/en/0dte-options-guide/</link>
+      <pubDate>Mon, 11 May 2026 22:02:14 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/0dte-options-guide/</guid>
+      <description>A mechanics-first guide to 0DTE options: how Gamma and Theta collapse on the final trading day, payoff profiles for the three main player types, the real P&amp;amp;L distribution from academic studies, and why most retail buyers lose money.</description>
+    </item>
+    <item>
+      <title>Qlib Tutorial: From Install to Your First Quant Strategy</title>
+      <link>https://coriva.eu.org/en/qlib-tutorial/</link>
+      <pubDate>Mon, 11 May 2026 13:22:15 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/qlib-tutorial/</guid>
+      <description>A practical Qlib tutorial: install pyqlib, understand Alpha158, train a LightGBM model, run a backtest, and read the report. With architecture diagrams, runnable code, and a Windows pitfalls checklist.</description>
+    </item>
+    <item>
+      <title>vectorbt Tutorial: Vectorized Backtesting in Python</title>
+      <link>https://coriva.eu.org/en/vectorbt-tutorial/</link>
+      <pubDate>Fri, 08 May 2026 14:31:46 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/vectorbt-tutorial/</guid>
+      <description>Hands-on vectorbt tutorial: install, build a dual-SMA crossover, sweep 10,000 parameter combinations, and avoid the freq, signal-shift, and memory pitfalls that silently break backtests.</description>
+    </item>
+    <item>
+      <title>AlphaAgent: Regularized Exploration to Fight Alpha Decay</title>
+      <link>https://coriva.eu.org/en/alphaagent-paper-review/</link>
+      <pubDate>Tue, 21 Apr 2026 16:14:16 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alphaagent-paper-review/</guid>
+      <description>AlphaAgent paper review: a multi-agent framework with AST deduplication, hypothesis alignment, and complexity control to mine decay-resistant alpha factors on CSI 500 and S&amp;amp;P 500.</description>
+    </item>
+    <item>
+      <title>Essential Math for Quant Trading: From Log Returns to Linear Regression</title>
+      <link>https://coriva.eu.org/en/quant-math-basics/</link>
+      <pubDate>Mon, 20 Apr 2026 23:00:59 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/quant-math-basics/</guid>
+      <description>The math concepts that keep appearing in quant trading articles: log returns, mean and variance, normal distributions and fat tails, covariance matrices, OLS regression, and partial derivatives. Each explained with a trading context and Python code.</description>
+    </item>
+    <item>
+      <title>Fama-French Factor Model: From Three Factors to Five</title>
+      <link>https://coriva.eu.org/en/fama-french-factor-model/</link>
+      <pubDate>Thu, 16 Apr 2026 14:25:18 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/fama-french-factor-model/</guid>
+      <description>A beginner-friendly explanation of the Fama-French three-factor and five-factor models, how factors are constructed, Python regression code, and the limitations of factor investing.</description>
+    </item>
+    <item>
+      <title>Quant Trading Markets: Stocks, Futures, Options, Forex, Crypto</title>
+      <link>https://coriva.eu.org/en/quant-trading-markets/</link>
+      <pubDate>Thu, 16 Apr 2026 12:49:44 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/quant-trading-markets/</guid>
+      <description>A quant trader&amp;#39;s comparison of stocks, futures, options, forex, and crypto: trading rules, data ecosystems, leverage, volatility, and which strategies fit each market.</description>
+    </item>
+    <item>
+      <title>CTA Strategy Guide: Trend Following, Futures Arbitrage, and Python Implementation</title>
+      <link>https://coriva.eu.org/en/cta-strategy-guide/</link>
+      <pubDate>Thu, 16 Apr 2026 08:08:25 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/cta-strategy-guide/</guid>
+      <description>CTA strategy taxonomy, trend following with dual moving average crossover, futures calendar and intercommodity spread arbitrage, with Python simulation code and backtest results.</description>
+    </item>
+    <item>
+      <title>Pairs Trading Guide: Cointegration, Spread Construction, and Python Implementation</title>
+      <link>https://coriva.eu.org/en/pairs-trading-guide/</link>
+      <pubDate>Wed, 15 Apr 2026 18:10:05 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/pairs-trading-guide/</guid>
+      <description>Pairs trading from scratch: why cointegration beats correlation, Engle-Granger testing, spread construction, Z-score signal generation, and Python backtesting code.</description>
+    </item>
+    <item>
+      <title>Kelly Criterion and Position Sizing: From Formula to Quant Practice</title>
+      <link>https://coriva.eu.org/en/kelly-criterion-position-sizing/</link>
+      <pubDate>Wed, 15 Apr 2026 18:07:35 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/kelly-criterion-position-sizing/</guid>
+      <description>Kelly Criterion math, continuous-case derivation, connection to Sharpe ratio, fractional Kelly in practice, multi-asset extension, and Python position sizing simulations.</description>
+    </item>
+    <item>
+      <title>Option Greeks Calculator: Delta, Gamma, Theta, Vega Online Tool</title>
+      <link>https://coriva.eu.org/en/option-greeks-calculator/</link>
+      <pubDate>Tue, 14 Apr 2026 16:57:01 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/option-greeks-calculator/</guid>
+      <description>Free online option Greeks calculator: instantly compute Delta, Gamma, Theta, Vega and second-order Greeks (Vanna, Charm, Volga) with interactive charts. Based on the Black-Scholes model.</description>
+    </item>
+    <item>
+      <title>Alpha 101 Liquidity and Composite Factors &#43; Portfolio Construction</title>
+      <link>https://coriva.eu.org/en/alpha101-liquidity/</link>
+      <pubDate>Tue, 14 Apr 2026 14:59:56 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alpha101-liquidity/</guid>
+      <description>Alpha 101 liquidity and composite factors explained: conditional liquidity, multi-layer decay signals, Boolean factors, plus practical advice on building multi-factor portfolios from 101 alphas.</description>
+    </item>
+    <item>
+      <title>Alpha 101 Volatility and Intraday Structure Factors Explained</title>
+      <link>https://coriva.eu.org/en/alpha101-volatility/</link>
+      <pubDate>Tue, 14 Apr 2026 14:57:10 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alpha101-volatility/</guid>
+      <description>Alpha 101 volatility and intraday structure factors broken down: conditional volatility, short-vs-long vol ratio, CLV indicator, VWAP deviation, and nonlinear intraday amplification.</description>
+    </item>
+    <item>
+      <title>Alpha 101 Momentum and Reversal Factors Explained</title>
+      <link>https://coriva.eu.org/en/alpha101-momentum/</link>
+      <pubDate>Tue, 14 Apr 2026 14:54:26 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alpha101-momentum/</guid>
+      <description>Alpha 101 momentum and reversal factors broken down: conditional reversal, gap fill strategies, multi-timeframe interactions, and when to follow trends vs bet against them.</description>
+    </item>
+    <item>
+      <title>Alpha 101 Price-Volume Divergence Factors Explained</title>
+      <link>https://coriva.eu.org/en/alpha101-price-volume/</link>
+      <pubDate>Tue, 14 Apr 2026 14:51:52 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alpha101-price-volume/</guid>
+      <description>Deep dive into Alpha 101 price-volume divergence factors: from simple correlation(rank(open), rank(volume)) to three-factor interactions, with full formula breakdowns.</description>
+    </item>
+    <item>
+      <title>WorldQuant Alpha 101 Explained: Factor Taxonomy and Operator Reference</title>
+      <link>https://coriva.eu.org/en/alpha101-overview/</link>
+      <pubDate>Tue, 14 Apr 2026 11:37:53 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alpha101-overview/</guid>
+      <description>Deep dive into WorldQuant&amp;#39;s 101 Formulaic Alphas: all 101 factors classified by economic logic, operator intuition guide, pandas code, and full reference table.</description>
+    </item>
+    <item>
+      <title>Volatility Trading Strategies: 6 Ways to Go Long or Short Vol</title>
+      <link>https://coriva.eu.org/en/volatility-trading-strategies/</link>
+      <pubDate>Mon, 13 Apr 2026 16:23:21 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/volatility-trading-strategies/</guid>
+      <description>Compare 6 volatility trading strategies: Long Straddle, Strangle, Calendar Spread, Short Straddle, Short Strangle, Iron Condor. Use IV Rank to pick the right one.</description>
+    </item>
+    <item>
+      <title>Option Greeks in Practice: Strategy Analysis, Hedging, and Gamma Scalping</title>
+      <link>https://coriva.eu.org/en/option-greeks-trading/</link>
+      <pubDate>Sun, 12 Apr 2026 23:46:17 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/option-greeks-trading/</guid>
+      <description>Option Greeks in action: strategy decomposition with Greeks, Python-simulated Delta hedging, Gamma Scalping P&amp;amp;L walkthrough, and market-maker risk management.</description>
+    </item>
+    <item>
+      <title>Second-Order Greeks: Vanna, Charm, Volga and Volatility Surfaces</title>
+      <link>https://coriva.eu.org/en/option-greeks-second-order/</link>
+      <pubDate>Sun, 12 Apr 2026 23:40:46 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/option-greeks-second-order/</guid>
+      <description>Second-order option Greeks with Python code: Vanna, Charm, and Volga formulas, intuitive explanations, and their role in shaping the volatility surface.</description>
+    </item>
+    <item>
+      <title>Option Greeks: Formulas, Python Code, and Charts</title>
+      <link>https://coriva.eu.org/en/option-greeks-guide/</link>
+      <pubDate>Sun, 12 Apr 2026 23:04:45 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/option-greeks-guide/</guid>
+      <description>A practical guide to option Greeks under the Black-Scholes framework: Delta, Gamma, Theta, Vega formulas with Python code, market-maker hedging insights, and visualizations.</description>
+    </item>
+    <item>
+      <title>TA-Lib Python Tutorial: The Complete Guide</title>
+      <link>https://coriva.eu.org/en/ta-lib-python-tutorial/</link>
+      <pubDate>Sun, 12 Apr 2026 12:28:00 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/ta-lib-python-tutorial/</guid>
+      <description>Complete TA-Lib Python tutorial: installation, Function vs Abstract API, technical indicators with parameter tips, candlestick patterns, Pandas integration, and comparison with pandas-ta.</description>
+    </item>
+    <item>
+      <title>The Complete Guide to Backtesting Pitfalls in Quantitative Trading</title>
+      <link>https://coriva.eu.org/en/backtesting-pitfalls/</link>
+      <pubDate>Fri, 10 Apr 2026 22:42:15 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/backtesting-pitfalls/</guid>
+      <description>Common backtesting pitfalls in quantitative trading: overfitting, look-ahead bias, survivorship bias, transaction cost modeling, with Python code examples and a self-check checklist.</description>
+    </item>
+    <item>
+      <title>AlphaGPT: Mining Quantitative Factors with LLMs</title>
+      <link>https://coriva.eu.org/en/alphagpt-paper-review/</link>
+      <pubDate>Fri, 10 Apr 2026 00:18:47 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alphagpt-paper-review/</guid>
+      <description>A review of the AlphaGPT paper: how LLMs participate in alpha factor mining, comparison with genetic programming, and the human-AI collaborative quant research paradigm.</description>
+    </item>
+    <item>
+      <title>A Complete Guide to Quantitative Trading Metrics</title>
+      <link>https://coriva.eu.org/en/quant-metrics-guide/</link>
+      <pubDate>Fri, 10 Apr 2026 00:18:07 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/quant-metrics-guide/</guid>
+      <description>A complete guide to quantitative trading metrics: Sharpe ratio, Sortino, Calmar, maximum drawdown, win rate, with formulas and Python code.</description>
+    </item>
+    <item>
+      <title>How to Use yfinance to Download Stock P/E Ratio</title>
+      <link>https://coriva.eu.org/en/how-to-use-yfinance-to-download-stock-p-e-ratio/</link>
+      <pubDate>Sat, 14 Dec 2024 18:52:04 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/how-to-use-yfinance-to-download-stock-p-e-ratio/</guid>
+      <description>How to retrieve stock P/E ratios using Python&amp;#39;s yfinance library with code examples.</description>
+    </item>
+    <item>
+      <title>A Tutorial to use yfinance</title>
+      <link>https://coriva.eu.org/en/a-tutorial-to-use-yfinance/</link>
+      <pubDate>Sat, 14 Dec 2024 10:14:21 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/a-tutorial-to-use-yfinance/</guid>
+      <description>A step-by-step guide to installing and using the yfinance Python library to download stock data from Yahoo Finance.</description>
+    </item>
+  </channel>
+</rss>
