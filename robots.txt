@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://coriva.eu.org/sitemap.xml

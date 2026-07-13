@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLM on Coriva</title>
+    <link>https://coriva.eu.org/en/tags/llm/</link>
+    <description>Recent content in LLM on Coriva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jun 2026 11:06:39 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/en/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FactorMiner Paper Review</title>
+      <link>https://coriva.eu.org/en/factorminer-paper-review/</link>
+      <pubDate>Mon, 15 Jun 2026 11:06:39 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/factorminer-paper-review/</guid>
+      <description>Paper review of FactorMiner: a self-evolving agent that uses a skill plus experience memory to mine formulaic alpha factors. Top-40 IC of 8.25% on CSI500, ICIR 0.77, beating AlphaAgent and GPLearn.</description>
+    </item>
+    <item>
+      <title>QuantaAlpha: Evolving Alpha Mining as Trajectories</title>
+      <link>https://coriva.eu.org/en/quantaalpha-paper-review/</link>
+      <pubDate>Wed, 20 May 2026 12:48:20 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/quantaalpha-paper-review/</guid>
+      <description>QuantaAlpha paper review: treat each end-to-end LLM alpha mining run as a trajectory, then evolve via mutation and crossover. IC 0.0472 on CSI 300, with zero-shot transfer to S&amp;amp;P 500 still delivering 19.1% cumulative excess return.</description>
+    </item>
+    <item>
+      <title>AlphaAgent: Regularized Exploration to Fight Alpha Decay</title>
+      <link>https://coriva.eu.org/en/alphaagent-paper-review/</link>
+      <pubDate>Tue, 21 Apr 2026 16:14:16 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alphaagent-paper-review/</guid>
+      <description>AlphaAgent paper review: a multi-agent framework with AST deduplication, hypothesis alignment, and complexity control to mine decay-resistant alpha factors on CSI 500 and S&amp;amp;P 500.</description>
+    </item>
+    <item>
+      <title>AlphaGPT: Mining Quantitative Factors with LLMs</title>
+      <link>https://coriva.eu.org/en/alphagpt-paper-review/</link>
+      <pubDate>Fri, 10 Apr 2026 00:18:47 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/alphagpt-paper-review/</guid>
+      <description>A review of the AlphaGPT paper: how LLMs participate in alpha factor mining, comparison with genetic programming, and the human-AI collaborative quant research paradigm.</description>
+    </item>
+  </channel>
+</rss>

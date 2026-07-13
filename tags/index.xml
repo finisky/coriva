@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Coriva</title>
+    <link>https://coriva.eu.org/tags/</link>
+    <description>Recent content in Tags on Coriva</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 13 Jul 2026 18:14:28 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Options</title>
+      <link>https://coriva.eu.org/tags/options/</link>
+      <pubDate>Mon, 13 Jul 2026 18:14:28 +0800</pubDate>
+      <guid>https://coriva.eu.org/tags/options/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quant</title>
+      <link>https://coriva.eu.org/tags/quant/</link>
+      <pubDate>Mon, 13 Jul 2026 18:14:28 +0800</pubDate>
+      <guid>https://coriva.eu.org/tags/quant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trading</title>
+      <link>https://coriva.eu.org/tags/trading/</link>
+      <pubDate>Mon, 13 Jul 2026 18:14:28 +0800</pubDate>
+      <guid>https://coriva.eu.org/tags/trading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://coriva.eu.org/tags/llm/</link>
+      <pubDate>Sun, 14 Jun 2026 00:14:39 +0800</pubDate>
+      <guid>https://coriva.eu.org/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paper</title>
+      <link>https://coriva.eu.org/tags/paper/</link>
+      <pubDate>Sun, 14 Jun 2026 00:14:39 +0800</pubDate>
+      <guid>https://coriva.eu.org/tags/paper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Qlib</title>
+      <link>https://coriva.eu.org/tags/qlib/</link>
+      <pubDate>Mon, 11 May 2026 13:18:56 +0800</pubDate>
+      <guid>https://coriva.eu.org/tags/qlib/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Backtesting</title>
+      <link>https://coriva.eu.org/tags/backtesting/</link>
+      <pubDate>Fri, 08 May 2026 14:29:55 +0800</pubDate>
+      <guid>https://coriva.eu.org/tags/backtesting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://coriva.eu.org/tags/python/</link>
+      <pubDate>Fri, 08 May 2026 14:29:55 +0800</pubDate>
+      <guid>https://coriva.eu.org/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CTA</title>
+      <link>https://coriva.eu.org/tags/cta/</link>
+      <pubDate>Thu, 16 Apr 2026 08:00:34 +0800</pubDate>
+      <guid>https://coriva.eu.org/tags/cta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistical Arbitrage</title>
+      <link>https://coriva.eu.org/tags/statistical-arbitrage/</link>
+      <pubDate>Wed, 15 Apr 2026 18:08:42 +0800</pubDate>
+      <guid>https://coriva.eu.org/tags/statistical-arbitrage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Risk Management</title>
+      <link>https://coriva.eu.org/tags/risk-management/</link>
+      <pubDate>Wed, 15 Apr 2026 18:06:00 +0800</pubDate>
+      <guid>https://coriva.eu.org/tags/risk-management/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

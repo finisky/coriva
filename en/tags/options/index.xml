@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Options on Coriva</title>
+    <link>https://coriva.eu.org/en/tags/options/</link>
+    <description>Recent content in Options on Coriva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Jul 2026 18:17:02 +0800</lastBuildDate>
+    <atom:link href="https://coriva.eu.org/en/tags/options/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gamma Scalping Guide: Profiting from Volatility with Delta Hedging</title>
+      <link>https://coriva.eu.org/en/gamma-scalping-guide/</link>
+      <pubDate>Mon, 13 Jul 2026 18:17:02 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/gamma-scalping-guide/</guid>
+      <description>Gamma scalping explained: from gamma convexity math to delta hedging mechanics, with Python simulations showing P&amp;amp;L under different realized volatility scenarios.</description>
+    </item>
+    <item>
+      <title>Dispersion Trading Guide: Shorting Correlation with Options and Python</title>
+      <link>https://coriva.eu.org/en/dispersion-trading-guide/</link>
+      <pubDate>Mon, 13 Jul 2026 14:03:19 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/dispersion-trading-guide/</guid>
+      <description>A complete guide to dispersion trading: variance decomposition, implied correlation math, Vega-weighted portfolio construction, and Python code for computing correlation signals.</description>
+    </item>
+    <item>
+      <title>0DTE Options Explained: Mechanics, Greeks, and Real P&amp;L Distribution</title>
+      <link>https://coriva.eu.org/en/0dte-options-guide/</link>
+      <pubDate>Mon, 11 May 2026 22:02:14 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/0dte-options-guide/</guid>
+      <description>A mechanics-first guide to 0DTE options: how Gamma and Theta collapse on the final trading day, payoff profiles for the three main player types, the real P&amp;amp;L distribution from academic studies, and why most retail buyers lose money.</description>
+    </item>
+    <item>
+      <title>Option Greeks Calculator: Delta, Gamma, Theta, Vega Online Tool</title>
+      <link>https://coriva.eu.org/en/option-greeks-calculator/</link>
+      <pubDate>Tue, 14 Apr 2026 16:57:01 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/option-greeks-calculator/</guid>
+      <description>Free online option Greeks calculator: instantly compute Delta, Gamma, Theta, Vega and second-order Greeks (Vanna, Charm, Volga) with interactive charts. Based on the Black-Scholes model.</description>
+    </item>
+    <item>
+      <title>Volatility Trading Strategies: 6 Ways to Go Long or Short Vol</title>
+      <link>https://coriva.eu.org/en/volatility-trading-strategies/</link>
+      <pubDate>Mon, 13 Apr 2026 16:23:21 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/volatility-trading-strategies/</guid>
+      <description>Compare 6 volatility trading strategies: Long Straddle, Strangle, Calendar Spread, Short Straddle, Short Strangle, Iron Condor. Use IV Rank to pick the right one.</description>
+    </item>
+    <item>
+      <title>Option Greeks in Practice: Strategy Analysis, Hedging, and Gamma Scalping</title>
+      <link>https://coriva.eu.org/en/option-greeks-trading/</link>
+      <pubDate>Sun, 12 Apr 2026 23:46:17 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/option-greeks-trading/</guid>
+      <description>Option Greeks in action: strategy decomposition with Greeks, Python-simulated Delta hedging, Gamma Scalping P&amp;amp;L walkthrough, and market-maker risk management.</description>
+    </item>
+    <item>
+      <title>Second-Order Greeks: Vanna, Charm, Volga and Volatility Surfaces</title>
+      <link>https://coriva.eu.org/en/option-greeks-second-order/</link>
+      <pubDate>Sun, 12 Apr 2026 23:40:46 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/option-greeks-second-order/</guid>
+      <description>Second-order option Greeks with Python code: Vanna, Charm, and Volga formulas, intuitive explanations, and their role in shaping the volatility surface.</description>
+    </item>
+    <item>
+      <title>Option Greeks: Formulas, Python Code, and Charts</title>
+      <link>https://coriva.eu.org/en/option-greeks-guide/</link>
+      <pubDate>Sun, 12 Apr 2026 23:04:45 +0800</pubDate>
+      <guid>https://coriva.eu.org/en/option-greeks-guide/</guid>
+      <description>A practical guide to option Greeks under the Black-Scholes framework: Delta, Gamma, Theta, Vega formulas with Python code, market-maker hedging insights, and visualizations.</description>
+    </item>
+  </channel>
+</rss>
